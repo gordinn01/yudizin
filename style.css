@@ -26,17 +26,6 @@ h1 {
     color: var(--bg-color);
     font-weight: 700;
 }
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-
-</body>
-</html>
 
 nav {
     display: flex;
@@ -55,24 +44,10 @@ nav a:hover {
     text-decoration: underline;
     transform: scale(0.90);
     transition: transform 0.1s;
-    justify-content: center;
-    font-weight: 400;
-}
-
-nav a {
 }
 
 .graficos-container {
     margin: 5rem;
-}
-
-.grafico {
-    margin-top: 3rem;
-    justify-content: center;
-    font-weight: 400;
-}
-
-nav a {
 }
 
 .graficos-container__texto {
@@ -97,8 +72,4 @@ footer {
     height: 3rem;
     margin-top: 2rem;
 }
-justify-content: center;
-font-weight: 400;
-}
 
-nav a {
